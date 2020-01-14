@@ -37,7 +37,7 @@ import java.text.SimpleDateFormat;
 import java.util.ArrayList;
 import java.util.List;
 
-
+//lkjhkjhkjh
 public class GroupListFragment extends Fragment {
     private static final String TAG = "TAG_GroupListFragment";
     private SwipeRefreshLayout swipeRefreshLayout;

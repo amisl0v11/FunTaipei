@@ -3,15 +3,15 @@
 
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
-    <string name="textNoNetwork">no network connection available</string>
-    <string name="textUpdate">Update</string>
-    <string name="textDelete">Delete</string>
-    <string name="textDeleteFail">DeleteFail</string>
-    <string name="textDeleteSucess">DeleteSucess</string>
+    <string name="textNoNetwork">找不到網路連線</string>
+    <string name="textUpdate">更新</string>
+    <string name="textDelete">刪除</string>
+    <string name="textDeleteFail">刪除失敗</string>
+    <string name="textDeleteSucess">刪除成功</string>
     <string name="textCancel">取消</string>
     <string name="textInsert">新增</string>
     <string name="textGroupName">旅遊團名稱</string>
-    <string name="textNoGroupsFound">No Groups Found</string>
+    <string name="textNoGroupsFound">找不到團體</string>
     <string name="textPickPicture">選照片</string>
     <string name="textTakePicture">拍照</string>
     <string name="textStartDate">旅遊日期</string>
@@ -23,18 +23,18 @@
     <string name="textDateStart">開始報名日期</string>
     <string name="textDateEnd">報名截止日期</string>
     <string name="textNote">備註</string>
-    <string name="textNoPlacesFound">no place found</string>
-    <string name="textDeleteSuccess">delete successfully</string>
-    <string name="textNoCameraApp">no camera app found</string>
+    <string name="textNoPlacesFound">找不到旅遊點</string>
+    <string name="textDeleteSuccess">刪除成功</string>
+    <string name="textNoCameraApp">找不到相機程式</string>
     <string name="textNameIsInvalid">book name is invalid</string>
-    <string name="textInsertFail">insert fail</string>
-    <string name="textInsertSuccess">insert successfully</string>
-    <string name="textUpdateFail">update fail</string>
-    <string name="textUpdateSuccess">update successfully</string>
-    <string name="textNoImageCropAppFound">no image crop app found</string>
-    <string name="btInsert">INSERT</string>
-    <string name="btUpdate">UPDATE</string>
-    <string name="etName">Name</string>
+    <string name="textInsertFail">新增失敗</string>
+    <string name="textInsertSuccess">新增成功</string>
+    <string name="textUpdateFail">更新失敗</string>
+    <string name="textUpdateSuccess">更新成功</string>
+    <string name="textNoImageCropAppFound">找不到截圖程式</string>
+    <string name="btInsert">新增</string>
+    <string name="btUpdate">修改</string>
+    <string name="etName">名字</string>
     <string-array name="travel_status">
         <item>下架</item>
         <item>上架</item>
